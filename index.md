@@ -1,3 +1,3 @@
-Hello, My name is Latasha, better known as Tasha. 
-I've never aspired to create a web page, but I guess it's not so bad.
-
+<h1> I CREATED A WEBPAGE </h1>
+<p>In the midst of a seemingly ordinary school day, my professor thrust an unexpected challenge upon this class: create a webpage, an endeavor far beyond my comfort zone. Initially resistant, I reluctantly delved into the world of coding, grappling with HTML tags and cascading style sheets. With every line of code, frustration melded with determination. The professor's insistence became a catalyst for unexpected growth as I navigated through the intricacies of web development. What began as a forced task transformed into a journey of self-discovery, revealing untapped potential and a newfound appreciation for the digital realm. In the end, the webpage stood as a personal triumph over the intimidating world of coding.</p>
+<img src = "kidgirlglasses.png">
